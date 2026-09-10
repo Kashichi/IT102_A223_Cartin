@@ -1,0 +1,14 @@
+Account Number: 123456789
+Account Name: Art Rian F. Cartin
+PIN: 1234
+Account Type: Savings Account
+Savings Goal: 15000.00
+Balance: 9000.00
+
+Account Number: 173867
+Account Name: Kashichi Shikikato
+PIN: 1234
+Account Type: Savings Account
+Savings Goal: 0.00
+Balance: 11000.00
+

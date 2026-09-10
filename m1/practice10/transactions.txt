@@ -1,0 +1,48 @@
+Timestamp: 2026-09-10 16:00:16
+Account Number: 123456789
+Account: Art Rian F. Cartin
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱2000.00
+Balance After: ₱12000.00
+
+Timestamp: 2026-09-10 16:22:28
+Account Number: 123456789
+Account: Art Rian F. Cartin
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱2000.00
+Balance After: ₱10000.00
+
+Timestamp: 2026-09-10 16:29:06
+Account Number: 123456789
+Account: Art Rian F. Cartin
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱2000.00
+Balance After: ₱12000.00
+
+Timestamp: 2026-09-10 16:29:12
+Account Number: 123456789
+Account: Art Rian F. Cartin
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱2000.00
+Balance After: ₱10000.00
+
+Timestamp: 2026-09-10 16:29:25
+Account Number: 123456789
+Account: Art Rian F. Cartin
+Account Type: Savings Account
+Transaction: Transfer Out
+Amount: ₱1000.00
+Balance After: ₱9000.00
+
+Timestamp: 2026-09-10 16:29:25
+Account Number: 173867
+Account: Kashichi Shikikato
+Account Type: Savings Account
+Transaction: Transfer In
+Amount: ₱1000.00
+Balance After: ₱11000.00
+
